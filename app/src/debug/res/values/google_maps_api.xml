@@ -1,0 +1,4 @@
+<resources>
+    <!-- ADD_MAPS_KEY -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">ADD_MAPS_KEY</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="title_activity_maps">Map Current Location</string>
+    <string name="permission_rationale_location">permission Rationale Location</string>
+    <string name="permission_required_toast">permission required toast</string>
+    <string name="location_permission_denied">location permission denied</string>
+</resources>
